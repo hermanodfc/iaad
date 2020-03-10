@@ -1,4 +1,0 @@
-Banco de dados é uma coleção de dados inter-relacionados, representando informações sobre um domínio específico. 
-Por outro lado, um SGBD (Sistema de Gerenciamento de Banco de dados) é um software com recursos específicos para 
-facilitar a manipulação das informações dos dados e o desenvolvimento de programas aplicativos. Um SGBD é uma coleção 
-de programas que permite que usuários criem e mantenham bancos de dados.
